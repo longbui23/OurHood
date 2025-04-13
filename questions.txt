@@ -1,0 +1,127 @@
+Question,Option A,Option B,Option C,Option D,Answer,Topic
+What is the chemical symbol for water?,W,H2O,HO,WA,1,Science
+Who developed the theory of relativity?,Isaac Newton,Albert Einstein,Galileo Galilei,Stephen Hawking,1,Science
+What is the process by which plants make their own food called?,Respiration,Photosynthesis,Fermentation,Pollination,1,Science
+What is the primary function of the kidneys?,Regulating body temperature,Digesting food,Filtering blood,Pumping oxygen,2,Science
+What is the Earth's primary source of energy?,Wind,Water,Sun,Fire,2,Science
+Who is credited with inventing the World Wide Web?,Tim Berners-Lee,Bill Gates,Steve Jobs,Larry Page,0,Technology
+"What does ""HTTP"" stand for in terms of internet technology?",HyperText Transfer Protocol,High-Tech Transport Protocol,HyperTransfer Text Protocol,HyperTech Telecommunication Protocol,0,Technology
+What is the most widely used programming language in the world?,Python,Java,C++,HTML,1,Technology
+Who founded the electric car company Tesla?,Elon Musk,Jeff Bezos,Bill Gates,Mark Zuckerberg,0,Technology
+"What does ""VPN"" stand for in computer networking?",Virtual Private Network,Visual Processing Node,Virtual Processing Network,Visual Private Node,0,Technology
+Who holds the record for the most Olympic gold medals of all time?,Michael Phelps,Usain Bolt,Serena Williams,Roger Federer,0,Sports
+In which sport is the Davis Cup awarded?,Tennis,Golf,Soccer,Basketball,0,Sports
+Which country won the FIFA World Cup in 2018?,Germany,Brazil,France,Argentina,2,Sports
+Who is the only boxer to win titles in eight different weight divisions?,Floyd Mayweather Jr.,Muhammad Ali,Mike Tyson,Manny Pacquiao,0,Sports
+What is the highest possible score in a game of ten-pin bowling?,200,250,300,350,2,Sports
+What is the capital of Canada?,Toronto,Vancouver,Ottawa,Montreal,2,Geography
+Which river is the longest in South America?,Amazon River,Nile River,Yangtze River,Mississippi River,0,Geography
+What is the largest desert in the world?,Sahara Desert,Gobi Desert,Arabian Desert,Antarctic Desert,0,Geography
+Which country is known as the Land of the Rising Sun?,China,Japan,South Korea,India,1,Geography
+What is the highest mountain in Africa?,Mount Everest,Mount Kilimanjaro,Mount Fuji,Mount Aconcagua,1,Geography
+Who was the first president of the United States?,Thomas Jefferson,George Washington,John Adams,Abraham Lincoln,1,History
+In which year did World War II end?,1943,1945,1947,1950,1,History
+Who was the first woman to fly solo across the Atlantic Ocean?,Amelia Earhart,Harriet Quimby,Bessie Coleman,Sally Ride,0,History
+What was the name of the ship on which Charles Darwin made his famous voyage?,HMS Beagle,SS Great Britain,HMS Victory,Endeavour,0,History
+Who was the first human to journey into outer space?,Yuri Gagarin,Neil Armstrong,Buzz Aldrin,Alan Shepard,0,History
+"Who wrote the novel ""Pride and Prejudice""?",Jane Austen,Charlotte Brontë,Emily Dickinson,Agatha Christie,0,Literature
+"What is the name of the fictional land in J.R.R. Tolkien's ""The Lord of the Rings"" series?",Westeros,Middle-earth,Narnia,Hogwarts,1,Literature
+"Who is the author of the play ""Hamlet""?",William Shakespeare,Christopher Marlowe,Oscar Wilde,George Bernard Shaw,0,Literature
+"What is the opening line of Charles Dickens' novel ""A Tale of Two Cities""?","It was the best of times, it was the worst of times",Call me Ishmael,In the beginning God created the heavens and the earth,All happy families are alike,0,Literature
+Which novel features the character Atticus Finch and deals with themes of racial injustice in the American South?,To Kill a Mockingbird,The Great Gatsby,1984,The Catcher in the Rye,0,Literature
+What is the hardest natural substance on Earth?,Gold,Iron,Diamond,Quartz,2,Science
+What is the hardest natural substance on Earth?,Gold,Iron,Diamond,Quartz,2,Science
+What planet is known as the Red Planet?,Earth,Mars,Jupiter,Venus,1,Science
+What part of the cell contains DNA?,Cytoplasm,Ribosome,Nucleus,Membrane,2,Science
+What gas do plants absorb from the atmosphere?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,1,Science
+What is the boiling point of water at sea level?,90°C,95°C,100°C,110°C,2,Science
+What planet is known as the Red Planet?,Earth,Mars,Jupiter,Venus,1,Science
+What gas do plants absorb from the atmosphere?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,1,Science
+What is the boiling point of water at sea level?,90°C,95°C,100°C,110°C,2,Science
+What gas do plants absorb from the atmosphere?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,1,Science
+What is the boiling point of water at sea level?,90°C,95°C,100°C,110°C,2,Science
+What gas do plants absorb from the atmosphere?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,1,Science
+What gas do plants absorb from the atmosphere?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,1,Science
+What planet is known as the Red Planet?,Earth,Mars,Jupiter,Venus,1,Science
+What planet is known as the Red Planet?,Earth,Mars,Jupiter,Venus,1,Science
+What gas do plants absorb from the atmosphere?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,1,Science
+What does AI stand for?,Artificial Instinct,Advanced Intelligence,Artificial Intelligence,Automated Information,2,Technology
+What does AI stand for?,Artificial Instinct,Advanced Intelligence,Artificial Intelligence,Automated Information,2,Technology
+What does 'URL' stand for?,Unique Resource Locator,Universal Resource Locator,Unified Reference Link,Universal Redirect Link,1,Technology
+What is Git used for?,Photo editing,Version control,Gaming,Web browsing,1,Technology
+What does 'URL' stand for?,Unique Resource Locator,Universal Resource Locator,Unified Reference Link,Universal Redirect Link,1,Technology
+What is the brain of the computer?,RAM,Hard Drive,CPU,GPU,2,Technology
+What does AI stand for?,Artificial Instinct,Advanced Intelligence,Artificial Intelligence,Automated Information,2,Technology
+Which company created the Android operating system?,Google,Apple,Samsung,Microsoft,0,Technology
+What is the brain of the computer?,RAM,Hard Drive,CPU,GPU,2,Technology
+Which company created the Android operating system?,Google,Apple,Samsung,Microsoft,0,Technology
+What is the brain of the computer?,RAM,Hard Drive,CPU,GPU,2,Technology
+Which company created the Android operating system?,Google,Apple,Samsung,Microsoft,0,Technology
+What does 'URL' stand for?,Unique Resource Locator,Universal Resource Locator,Unified Reference Link,Universal Redirect Link,1,Technology
+Which company created the Android operating system?,Google,Apple,Samsung,Microsoft,0,Technology
+What does AI stand for?,Artificial Instinct,Advanced Intelligence,Artificial Intelligence,Automated Information,2,Technology
+Which company created the Android operating system?,Google,Apple,Samsung,Microsoft,0,Technology
+"In golf, what is the term for one under par?",Birdie,Eagle,Bogey,Double Bogey,0,Sports
+How long is a marathon?,21 km,30 km,42.195 km,50 km,2,Sports
+What sport uses a puck?,Soccer,Ice Hockey,Basketball,Tennis,1,Sports
+How many players are on a soccer team on the field?,9,10,11,12,2,Sports
+"In golf, what is the term for one under par?",Birdie,Eagle,Bogey,Double Bogey,0,Sports
+What sport uses a puck?,Soccer,Ice Hockey,Basketball,Tennis,1,Sports
+How long is a marathon?,21 km,30 km,42.195 km,50 km,2,Sports
+"In golf, what is the term for one under par?",Birdie,Eagle,Bogey,Double Bogey,0,Sports
+How many players are on a soccer team on the field?,9,10,11,12,2,Sports
+What sport uses a puck?,Soccer,Ice Hockey,Basketball,Tennis,1,Sports
+How many players are on a soccer team on the field?,9,10,11,12,2,Sports
+How long is a marathon?,21 km,30 km,42.195 km,50 km,2,Sports
+How long is a marathon?,21 km,30 km,42.195 km,50 km,2,Sports
+Where were the first modern Olympic Games held?,Paris,London,Athens,Rome,2,Sports
+What sport uses a puck?,Soccer,Ice Hockey,Basketball,Tennis,1,Sports
+How many players are on a soccer team on the field?,9,10,11,12,2,Sports
+Which European city is known for the Eiffel Tower?,Berlin,Rome,Paris,Madrid,2,Geography
+Which ocean is the largest?,Atlantic,Indian,Southern,Pacific,3,Geography
+Which country has the most islands?,Canada,Philippines,Indonesia,Sweden,3,Geography
+Which ocean is the largest?,Atlantic,Indian,Southern,Pacific,3,Geography
+Which US state has the Grand Canyon?,Nevada,Arizona,Utah,Colorado,1,Geography
+Which US state has the Grand Canyon?,Nevada,Arizona,Utah,Colorado,1,Geography
+Which US state has the Grand Canyon?,Nevada,Arizona,Utah,Colorado,1,Geography
+Which European city is known for the Eiffel Tower?,Berlin,Rome,Paris,Madrid,2,Geography
+Which country has the most islands?,Canada,Philippines,Indonesia,Sweden,3,Geography
+What continent is Egypt in?,Asia,Europe,Africa,Australia,2,Geography
+Which country has the most islands?,Canada,Philippines,Indonesia,Sweden,3,Geography
+Which European city is known for the Eiffel Tower?,Berlin,Rome,Paris,Madrid,2,Geography
+What continent is Egypt in?,Asia,Europe,Africa,Australia,2,Geography
+Which US state has the Grand Canyon?,Nevada,Arizona,Utah,Colorado,1,Geography
+What continent is Egypt in?,Asia,Europe,Africa,Australia,2,Geography
+What continent is Egypt in?,Asia,Europe,Africa,Australia,2,Geography
+Who was known as the Maid of Orléans?,Marie Curie,Cleopatra,Joan of Arc,Queen Elizabeth I,2,History
+Who discovered penicillin?,Marie Curie,Alexander Fleming,Louis Pasteur,Isaac Newton,1,History
+Who discovered penicillin?,Marie Curie,Alexander Fleming,Louis Pasteur,Isaac Newton,1,History
+Which empire built the Colosseum?,Greek,Roman,Byzantine,Ottoman,1,History
+Who was known as the Maid of Orléans?,Marie Curie,Cleopatra,Joan of Arc,Queen Elizabeth I,2,History
+Who was the British Prime Minister during WWII?,Winston Churchill,Neville Chamberlain,Margaret Thatcher,Tony Blair,0,History
+Who was the British Prime Minister during WWII?,Winston Churchill,Neville Chamberlain,Margaret Thatcher,Tony Blair,0,History
+What year did the Berlin Wall fall?,1987,1989,1991,1993,1,History
+What year did the Berlin Wall fall?,1987,1989,1991,1993,1,History
+Which empire built the Colosseum?,Greek,Roman,Byzantine,Ottoman,1,History
+Who discovered penicillin?,Marie Curie,Alexander Fleming,Louis Pasteur,Isaac Newton,1,History
+What year did the Berlin Wall fall?,1987,1989,1991,1993,1,History
+What year did the Berlin Wall fall?,1987,1989,1991,1993,1,History
+Who discovered penicillin?,Marie Curie,Alexander Fleming,Louis Pasteur,Isaac Newton,1,History
+Which empire built the Colosseum?,Greek,Roman,Byzantine,Ottoman,1,History
+What year did the Berlin Wall fall?,1987,1989,1991,1993,1,History
+Who created the character Sherlock Holmes?,Agatha Christie,Arthur Conan Doyle,J.K. Rowling,Dan Brown,1,Literature
+What is the last name of the author of 'The Catcher in the Rye'?,Lee,Salinger,Twain,Huxley,1,Literature
+What is the last name of the author of 'The Catcher in the Rye'?,Lee,Salinger,Twain,Huxley,1,Literature
+Who wrote 'The Great Gatsby'?,F. Scott Fitzgerald,Ernest Hemingway,John Steinbeck,Mark Twain,0,Literature
+What is the last name of the author of 'The Catcher in the Rye'?,Lee,Salinger,Twain,Huxley,1,Literature
+Who wrote 'The Great Gatsby'?,F. Scott Fitzgerald,Ernest Hemingway,John Steinbeck,Mark Twain,0,Literature
+Who wrote 'The Great Gatsby'?,F. Scott Fitzgerald,Ernest Hemingway,John Steinbeck,Mark Twain,0,Literature
+Who created the character Sherlock Holmes?,Agatha Christie,Arthur Conan Doyle,J.K. Rowling,Dan Brown,1,Literature
+What is the last name of the author of 'The Catcher in the Rye'?,Lee,Salinger,Twain,Huxley,1,Literature
+What is the last name of the author of 'The Catcher in the Rye'?,Lee,Salinger,Twain,Huxley,1,Literature
+Which book starts with 'Call me Ishmael'?,Moby Dick,1984,Frankenstein,Dracula,0,Literature
+What genre is '1984' by George Orwell?,Romance,Science Fiction,Dystopian,Fantasy,2,Literature
+Who wrote 'The Great Gatsby'?,F. Scott Fitzgerald,Ernest Hemingway,John Steinbeck,Mark Twain,0,Literature
+What is the last name of the author of 'The Catcher in the Rye'?,Lee,Salinger,Twain,Huxley,1,Literature
+What is the last name of the author of 'The Catcher in the Rye'?,Lee,Salinger,Twain,Huxley,1,Literature
+Which book starts with 'Call me Ishmael'?,Moby Dick,1984,Frankenstein,Dracula,0,Literature
