@@ -40,6 +40,6 @@ To set up and run Ourhood on your local device, follow these steps:
 4. Wait until all players have joined the lobby.  
 5. Once the game begins, answer the questions within the given time limit.  
 6. Points are awarded for correct answers.
- ![Alt text](Image/image4.png)   
+ ![Alt text](Image/image5.png)   
 7. The player with the highest score after all questions are answered wins the game!
-![Alt text](Image/image5.png)  
+![Alt text](Image/image4.png)  
