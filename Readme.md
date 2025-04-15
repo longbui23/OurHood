@@ -32,15 +32,19 @@ To set up and run Ourhood on your local device, follow these steps:
 
 ## How to Play  
 1. Start the Server by running `java network/Server`.  
-![Alt text](Image/image.png)
+![alt text](Image/image1.png)
 2. Run the Host setup with `java network/Host` to configure quiz settings.
 ![Alt text](Image/image2.png)  
-3. Launch the Client application using `java network/Client` on separate terminals or devices.
-![Alt text](Image/image3.png)   
-4. Wait until all players have joined the lobby.  
+3. Launch the Client application using `java network/Client` on separate terminals or devices. 
+![alt text](Image/image3.png)
+4. Wait until all players have joined the lobby. 
+![alt text](Image/image4.png) 
 5. Once the game begins, answer the questions within the given time limit.  
+
 6. Points are awarded for correct answers.
-   
-![Alt text](Image/image5.png)   
+
+![alt text](Image/image6.png)
+
+
 7. The player with the highest score after all questions are answered wins the game!
-![Alt text](Image/image4.png)  
+![alt text](Image/image5.png)
